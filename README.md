@@ -1,7 +1,7 @@
 # Default Risk Estimation
 
 This project focuses on estimating default risk using data from Lending Club spanning the period from 2007 to 2014, obtained from Kaggle. The objective is to develop a model for evaluating risk.
-Dataset with description is in the following link https://www.dropbox.com/scl/fi/teeshq28thhazjoouuyw0/lending_club__data.zip?rlkey=kae7ggujhhn8cdwi2rkh34j46&dl=0
+Dataset with description is in the following link https://www.dropbox.com/s/tq3xz0piqitnc59/loan_data_2007_2014.csv?dl=0
 ## Data Preprocessing
 
 The data underwent cleaning and preprocessing to prepare for model development.
